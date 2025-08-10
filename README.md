@@ -1,3 +1,5 @@
-To use TailwindCSS in this project please use stand alone tailwindcss CLI.
+To use TailwindCSS in this project please use the standalone Tailwind CSS CLI.
 
-./tailwindcss -i css/input.css -o css/output.css --watch
+```cmd
+tailwindcss -i css/input.css -o css/output.css --watch
+```
